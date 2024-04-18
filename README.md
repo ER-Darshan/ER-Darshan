@@ -2,7 +2,7 @@
 - 👀 I’m interested in Fullstack Developement    
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Java developement
-- 📫 How to reach me -deosaledarshan@gmail.com
+- 📫 How to reach me - deosaledarshan@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Non IT student trying to make way into a IT profession
 
